@@ -47,8 +47,8 @@ public class WasteManangment {
 	static int numOfAreas = 1;                                        // number of the City District
 	static int numOfBinPerArea = 4;                                   // how many bins has the area
 	
-	private static boolean CLOUD = false;  // the cloud switch on and off
-	//private static boolean CLOUD = true;
+	//private static boolean CLOUD = false;  // the cloud switch on and off
+	private static boolean CLOUD = true;
 	
 	public static void main(String[] args) {    // main class control the process
 
@@ -116,10 +116,10 @@ public class WasteManangment {
 
 //Level 0 Cloud + Level 1 Proxy Server
 	private static void createFogDevices(int userId, String appId) {
-		FogDevice cloud = createFogDevice("cloud", 44800, 40000, 100, 10000, 0, 0.01, 16*103, 16*83.25);
+		FogDevice cloud = createFogDevice("cloud", 7500	, 64, 1000 , 1000, 0, 0.01, 16*103, 16*83.25);
 		cloud.setParentId(-1);
 		fogDevices.add(cloud);
-		FogDevice proxy = createFogDevice("proxy-server", 2800, 4000, 10000, 10000, 1, 0.0, 107.339, 83.4333);
+		FogDevice proxy = createFogDevice("proxy-server", 7000	, 32, 500 , 500, 1, 0.0, 107.339, 83.4333);
 		proxy.setParentId(cloud.getId());
 		proxy.setUplinkLatency(100); // latency of connection between proxy server and cloud is 100 ms
 		fogDevices.add(proxy);
@@ -130,7 +130,7 @@ public class WasteManangment {
 
 	//Level 1 cellular Network with edge server
 		private static FogDevice cellularNetwork (String id, int userId, String appId, int parentId){
-			FogDevice edgeServer= createFogDevice("edgeServer-"+id, 2800, 4000, 10000, 10000, 1, 0.0, 107.339, 83.4333);
+			FogDevice edgeServer= createFogDevice("edgeServer-"+id, 7000, 32 , 35, 35, 1, 0.0, 107.339, 83.4333);
 			fogDevices.add(edgeServer);
 			edgeServer.setUplinkLatency(2); // latency of connection between Cellular Network edgeserver and proxy server is 2 ms
 			for(int i=0;i<numOfBinPerArea;i++){
@@ -144,25 +144,25 @@ public class WasteManangment {
 		}
 	// LEVEL 3 Smart bin + Sensors
 	private static FogDevice addSmartBin(String id, int userId, String appId, int parentId){
-		FogDevice smartBin = createFogDevice("MCU-"+id, 500, 1000, 10000, 10000, 3, 0, 87.53, 82.44);
+		FogDevice smartBin = createFogDevice("MCU-"+id, 7000, 1000, 10000, 10000, 3, 0, 87.53, 82.44);
 		smartBin.setParentId(parentId);
 		System.out.println("ultrasonicSensor");
-		Sensor ultrasonicSensor = new Sensor("HC-SR04"+id, "ULTRASONICSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of camera (sensor) follows a deterministic distribution
+		Sensor ultrasonicSensor = new Sensor("HC-SR04"+id, "ULTRASONICSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of "ULTRASONICSENSOR", (sensor) follows a deterministic distribution
 		sensors.add(ultrasonicSensor);
 		ultrasonicSensor.setGatewayDeviceId(smartBin.getId());
-		ultrasonicSensor.setLatency(1.0);  // latency of connection between bin (sensor) and the parent Smart Camera is 1 ms
+		ultrasonicSensor.setLatency(50.0);  // latency of connection between bin (sensor) and the parent Smart Bin is 1 ms
 		
 		System.out.println("motionSensor");
-		Sensor motionSensor = new Sensor("PIR-motion-sensor"+id, "MOTIONSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of camera (sensor) follows a deterministic distribution
+		Sensor motionSensor = new Sensor("PIR-motion-sensor"+id, "MOTIONSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of "MOTIONSENSOR", (sensor) follows a deterministic distribution
 		sensors.add(motionSensor);
 		motionSensor.setGatewayDeviceId(smartBin.getId());
-		motionSensor.setLatency(1.0);  // latency of connection between PTZ Control and the parent Smart Camera is 1 ms
+		motionSensor.setLatency(50.0);  // latency of connection between PTZ Control and the parent Smart Bin is 1 ms
 		
 		System.out.println("temperature");
-		Sensor temperature = new Sensor("DHT22"+id, "TEMPERATURE", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of camera (sensor) follows a deterministic distribution
+		Sensor temperature = new Sensor("DHT22"+id, "TEMPERATURE", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of "TEMPERATURE", (sensor) follows a deterministic distribution
 		sensors.add(temperature);
 		temperature.setGatewayDeviceId(smartBin.getId());
-		temperature.setLatency(1.0);  // latency of connection between bin (sensor) and the parent Smart Camera is 1 ms
+		temperature.setLatency(50.0);  // latency of connection between bin (sensor) and the parent Smart Bin is 1 ms
 		
 		
 		return smartBin;
