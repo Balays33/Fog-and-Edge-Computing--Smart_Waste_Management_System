@@ -147,19 +147,19 @@ public class WasteManangment {
 		FogDevice smartBin = createFogDevice("MCU-"+id, 7000, 1000, 10000, 10000, 3, 0, 87.53, 82.44);
 		smartBin.setParentId(parentId);
 		System.out.println("ultrasonicSensor");
-		Sensor ultrasonicSensor = new Sensor("HC-SR04"+id, "ULTRASONICSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of camera (sensor) follows a deterministic distribution
+		Sensor ultrasonicSensor = new Sensor("HC-SR04"+id, "ULTRASONICSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of "ULTRASONICSENSOR", (sensor) follows a deterministic distribution
 		sensors.add(ultrasonicSensor);
 		ultrasonicSensor.setGatewayDeviceId(smartBin.getId());
 		ultrasonicSensor.setLatency(50.0);  // latency of connection between bin (sensor) and the parent Smart Camera is 1 ms
 		
 		System.out.println("motionSensor");
-		Sensor motionSensor = new Sensor("PIR-motion-sensor"+id, "MOTIONSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of camera (sensor) follows a deterministic distribution
+		Sensor motionSensor = new Sensor("PIR-motion-sensor"+id, "MOTIONSENSOR", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of "MOTIONSENSOR", (sensor) follows a deterministic distribution
 		sensors.add(motionSensor);
 		motionSensor.setGatewayDeviceId(smartBin.getId());
 		motionSensor.setLatency(50.0);  // latency of connection between PTZ Control and the parent Smart Camera is 1 ms
 		
 		System.out.println("temperature");
-		Sensor temperature = new Sensor("DHT22"+id, "TEMPERATURE", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of camera (sensor) follows a deterministic distribution
+		Sensor temperature = new Sensor("DHT22"+id, "TEMPERATURE", userId, appId, new DeterministicDistribution(5)); // inter-transmission time of "TEMPERATURE", (sensor) follows a deterministic distribution
 		sensors.add(temperature);
 		temperature.setGatewayDeviceId(smartBin.getId());
 		temperature.setLatency(50.0);  // latency of connection between bin (sensor) and the parent Smart Camera is 1 ms
