@@ -16,6 +16,7 @@ Eclipse
 How to install iFogSim and the simulation?
 Clone this repository:
 git clone https://github.com/Balays33/Fog-and-Edge-Computing--Smart_Waste_Management_System.git
+
 Open Eclipse and import the WasteManangment.java Java project into Eclipse. Note: Make sure you import the Eclipse project into Eclipse, rather than creating a new Eclipse project.
 If needed, include the JARs (except the CloudSim ones) to the buildpath of the Eclipse project.
 How to run the Smart Waste Management System Fog simulation?
@@ -24,12 +25,15 @@ For the requirements of this simulation, the class org.fog.test.perfeval.WasteMa
 Run the main method of the org.fog.test.perfeval.WasteManangment class, using the modified iFogSim that is hosted in this repository.
 
 Project Report
-At the root of this repository you will find the file x20124066_FEC_CA_Apostolos_Giannakidis.pdf that fully documents the project and the results of the simulation.
+
+At the root of this repository you will find the file Balazs Barcza -x19190638-Smart Waste Management System.pdf that fully documents the project and the results of the simulation.
 
 Video Presentation
+
 YouTube: 
 
 Credits
+
 Balazs Barcza, x19190638@student.ncirl.ie
 
 PGDCLOUD, School of Computing
