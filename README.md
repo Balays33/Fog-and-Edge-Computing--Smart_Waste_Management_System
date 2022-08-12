@@ -25,12 +25,15 @@ For the requirements of this simulation, the class org.fog.test.perfeval.WasteMa
 Run the main method of the org.fog.test.perfeval.WasteManangment class, using the modified iFogSim that is hosted in this repository.
 
 Project Report
-At the root of this repository you will find the file x20124066_FEC_CA_Apostolos_Giannakidis.pdf that fully documents the project and the results of the simulation.
+
+At the root of this repository you will find the file Balazs Barcza -x19190638-Smart Waste Management System.pdf that fully documents the project and the results of the simulation.
 
 Video Presentation
+
 YouTube: 
 
 Credits
+
 Balazs Barcza, x19190638@student.ncirl.ie
 
 PGDCLOUD, School of Computing
