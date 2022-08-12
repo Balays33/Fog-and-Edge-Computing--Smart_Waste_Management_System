@@ -1,0 +1,330 @@
+sys:1261:663
+===================
+================
+=============
+COORD MAP{}
+sys:1261:663
+===================
+================
+=============
+COORD MAP{}
+sys:1067:663
+===================
+================
+=============
+COORD MAP{}
+sys:1017:596
+===================
+================
+=============
+COORD MAP{}
+sys:1017:596
+===================
+================
+=============
+COORD MAP{}
+sys:1017:596
+===================
+================
+=============
+COORD MAP{}
+sys:1017:596
+===================
+================
+=============
+COORD MAP{}
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=198]}
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=198]}
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=198]}
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=198]}
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=198]}
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=298], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=149]}
+Start Node : Proxy Server
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119]}
+Start Node : Proxy Server
+Start Node : Cellular Network EdgeServer
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119]}
+Start Node : Proxy Server
+Start Node : Cellular Network EdgeServer
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119]}
+Start Node : Proxy Server
+Start Node : Cellular Network EdgeServer
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119]}
+Start Node : Proxy Server
+Start Node : Cellular Network EdgeServer
+Start Node : Cloud (Datacenter)
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=476]}
+Start Node : Proxy Server
+Start Node : Cellular Network EdgeServer
+Start Node : Cloud (Datacenter)
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=339, ordinate=476], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=678, ordinate=476]}
+Start Node : Proxy Server
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=476], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=476], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=476]}
+Start Node : Proxy Server
+Start Node : HC-SR04
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=476], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=476], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=476]}
+Start Node : Proxy Server
+Start Node : HC-SR04
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=476], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=476], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=476]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=476], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=476], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=476]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=238], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=476], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=357], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=476], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=119], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=476]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Start Node : Cellular Network EdgeServer
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Start Node : Cellular Network EdgeServer
+Target Node : Smart Bin MCU
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Target Node : HC-SR04
+Start Node : Cellular Network EdgeServer
+Target Node : Smart Bin MCU
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Target Node : HC-SR04
+Target Node : PIR motion
+Start Node : Cellular Network EdgeServer
+Target Node : Smart Bin MCU
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Target Node : HC-SR04
+Target Node : PIR motion
+Target Node : DHT22
+Start Node : Cellular Network EdgeServer
+Target Node : Smart Bin MCU
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Target Node : HC-SR04
+Target Node : PIR motion
+Target Node : DHT22
+Start Node : Cellular Network EdgeServer
+Target Node : Smart Bin MCU
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
+
+****************************
+{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=[Edge [dest=FogDevice [mips=7000 ram=32 upBw=35 downBw=35]]], Sensor [dist=1 mean=10.0 stdDev=10.0]=[], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=[Edge [dest=Sensor [dist=1 mean=10.0 stdDev=10.0]], Edge [dest=Sensor [dist=2 min=10.0 max=10.0]], Edge [dest=Sensor [dist=2 min=10.0 max=10.0]]], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=[Edge [dest=FogDevice [mips=7000 ram=4 upBw=20 downBw=20]]], Sensor [dist=2 min=10.0 max=10.0]=[], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=[Edge [dest=FogDevice [mips=7000 ram=32 upBw=500 downBw=500]]], Sensor [dist=2 min=10.0 max=10.0]=[]}
+****************************
+{"nodes":[{"level":1,"upBw":500,"ratePerMips":100.0,"name":"Proxy Server","type":"FOG_DEVICE","mips":7000,"ram":32,"downBw":500},{"mean":10.0,"sensorType":"Sensor","name":"HC-SR04","type":"SENSOR","distribution":1,"stdDev":10.0},{"level":3,"upBw":20,"ratePerMips":80.0,"name":"Smart Bin MCU","type":"FOG_DEVICE","mips":7000,"ram":4,"downBw":20},{"level":2,"upBw":35,"ratePerMips":100.0,"name":"Cellular Network EdgeServer","type":"FOG_DEVICE","mips":7000,"ram":32,"downBw":35},{"min":10.0,"max":10.0,"sensorType":"Sensor","name":"PIR motion","type":"SENSOR","distribution":3},{"level":0,"upBw":1000,"ratePerMips":1000.0,"name":"Cloud (Datacenter)","type":"FOG_DEVICE","mips":7500,"ram":64,"downBw":1000},{"min":10.0,"max":10.0,"sensorType":"Sensore","name":"DHT22","type":"SENSOR","distribution":3}],"links":[{"latency":2.0,"destination":"Cellular Network EdgeServer","source":"Proxy Server"},{"latency":50.0,"destination":"HC-SR04","source":"Smart Bin MCU"},{"latency":50.0,"destination":"PIR motion","source":"Smart Bin MCU"},{"latency":50.0,"destination":"DHT22","source":"Smart Bin MCU"},{"latency":30.0,"destination":"Smart Bin MCU","source":"Cellular Network EdgeServer"},{"latency":100.0,"destination":"Proxy Server","source":"Cloud (Datacenter)"}]}
+
+****************************
+{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=[Edge [dest=FogDevice [mips=7000 ram=32 upBw=35 downBw=35]]], Sensor [dist=1 mean=10.0 stdDev=10.0]=[], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=[Edge [dest=Sensor [dist=1 mean=10.0 stdDev=10.0]], Edge [dest=Sensor [dist=2 min=10.0 max=10.0]], Edge [dest=Sensor [dist=2 min=10.0 max=10.0]]], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=[Edge [dest=FogDevice [mips=7000 ram=4 upBw=20 downBw=20]]], Sensor [dist=2 min=10.0 max=10.0]=[], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=[Edge [dest=FogDevice [mips=7000 ram=32 upBw=500 downBw=500]]], Sensor [dist=2 min=10.0 max=10.0]=[]}
+****************************
+{"nodes":[{"level":1,"upBw":500,"ratePerMips":100.0,"name":"Proxy Server","type":"FOG_DEVICE","mips":7000,"ram":32,"downBw":500},{"mean":10.0,"sensorType":"Sensor","name":"HC-SR04","type":"SENSOR","distribution":1,"stdDev":10.0},{"level":3,"upBw":20,"ratePerMips":80.0,"name":"Smart Bin MCU","type":"FOG_DEVICE","mips":7000,"ram":4,"downBw":20},{"level":2,"upBw":35,"ratePerMips":100.0,"name":"Cellular Network EdgeServer","type":"FOG_DEVICE","mips":7000,"ram":32,"downBw":35},{"min":10.0,"max":10.0,"sensorType":"Sensor","name":"PIR motion","type":"SENSOR","distribution":3},{"level":0,"upBw":1000,"ratePerMips":1000.0,"name":"Cloud (Datacenter)","type":"FOG_DEVICE","mips":7500,"ram":64,"downBw":1000},{"min":10.0,"max":10.0,"sensorType":"Sensore","name":"DHT22","type":"SENSOR","distribution":3}],"links":[{"latency":2.0,"destination":"Cellular Network EdgeServer","source":"Proxy Server"},{"latency":50.0,"destination":"HC-SR04","source":"Smart Bin MCU"},{"latency":50.0,"destination":"PIR motion","source":"Smart Bin MCU"},{"latency":50.0,"destination":"DHT22","source":"Smart Bin MCU"},{"latency":30.0,"destination":"Smart Bin MCU","source":"Cellular Network EdgeServer"},{"latency":100.0,"destination":"Proxy Server","source":"Cloud (Datacenter)"}]}
+
+****************************
+{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=[Edge [dest=FogDevice [mips=7000 ram=32 upBw=35 downBw=35]]], Sensor [dist=1 mean=10.0 stdDev=10.0]=[], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=[Edge [dest=Sensor [dist=1 mean=10.0 stdDev=10.0]], Edge [dest=Sensor [dist=2 min=10.0 max=10.0]], Edge [dest=Sensor [dist=2 min=10.0 max=10.0]]], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=[Edge [dest=FogDevice [mips=7000 ram=4 upBw=20 downBw=20]]], Sensor [dist=2 min=10.0 max=10.0]=[], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=[Edge [dest=FogDevice [mips=7000 ram=32 upBw=500 downBw=500]]], Sensor [dist=2 min=10.0 max=10.0]=[]}
+****************************
+{"nodes":[{"level":1,"upBw":500,"ratePerMips":100.0,"name":"Proxy Server","type":"FOG_DEVICE","mips":7000,"ram":32,"downBw":500},{"mean":10.0,"sensorType":"Sensor","name":"HC-SR04","type":"SENSOR","distribution":1,"stdDev":10.0},{"level":3,"upBw":20,"ratePerMips":80.0,"name":"Smart Bin MCU","type":"FOG_DEVICE","mips":7000,"ram":4,"downBw":20},{"level":2,"upBw":35,"ratePerMips":100.0,"name":"Cellular Network EdgeServer","type":"FOG_DEVICE","mips":7000,"ram":32,"downBw":35},{"min":10.0,"max":10.0,"sensorType":"Sensor","name":"PIR motion","type":"SENSOR","distribution":3},{"level":0,"upBw":1000,"ratePerMips":1000.0,"name":"Cloud (Datacenter)","type":"FOG_DEVICE","mips":7500,"ram":64,"downBw":1000},{"min":10.0,"max":10.0,"sensorType":"Sensore","name":"DHT22","type":"SENSOR","distribution":3}],"links":[{"latency":2.0,"destination":"Cellular Network EdgeServer","source":"Proxy Server"},{"latency":50.0,"destination":"HC-SR04","source":"Smart Bin MCU"},{"latency":50.0,"destination":"PIR motion","source":"Smart Bin MCU"},{"latency":50.0,"destination":"DHT22","source":"Smart Bin MCU"},{"latency":30.0,"destination":"Smart Bin MCU","source":"Cellular Network EdgeServer"},{"latency":100.0,"destination":"Proxy Server","source":"Cloud (Datacenter)"}]}
+sys:1017:596
+===================
+================
+=============
+COORD MAP{FogDevice [mips=7000 ram=32 upBw=500 downBw=500]=Coordinates [abscissa=508, ordinate=198], Sensor [dist=1 mean=10.0 stdDev=10.0]=Coordinates [abscissa=254, ordinate=495], FogDevice [mips=7000 ram=4 upBw=20 downBw=20]=Coordinates [abscissa=508, ordinate=396], FogDevice [mips=7000 ram=32 upBw=35 downBw=35]=Coordinates [abscissa=508, ordinate=297], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=508, ordinate=495], FogDevice [mips=7500 ram=64 upBw=1000 downBw=1000]=Coordinates [abscissa=508, ordinate=99], Sensor [dist=2 min=10.0 max=10.0]=Coordinates [abscissa=762, ordinate=495]}
+Start Node : Proxy Server
+Target Node : Cellular Network EdgeServer
+Start Node : HC-SR04
+Start Node : Smart Bin MCU
+Target Node : HC-SR04
+Target Node : PIR motion
+Target Node : DHT22
+Start Node : Cellular Network EdgeServer
+Target Node : Smart Bin MCU
+Start Node : PIR motion
+Start Node : Cloud (Datacenter)
+Target Node : Proxy Server
+Start Node : DHT22
